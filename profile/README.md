@@ -18,5 +18,5 @@ The projects here are built on the shoulders of giants. Thanks are due to:
 
 - The VanuLabs team, for their efforts of laying the groundwork upon which everything here is built. Their work can be found over
   at [psemu](https://github.com/psemu).
-- [Rhett](https://github.com/RhettVX), for always being willing to lend knowledge and a helping hand.
+- [Rhett](https://github.com/RhettVX), for being continuously willing to lend knowledge and a helping hand.
 - The ForgeLight Tools community, for their research efforts and shared discussion.
