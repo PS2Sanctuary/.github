@@ -9,7 +9,7 @@ such as [_Rogue Planet Games_](https://www.rogueplanetgaming.com/) or [_Daybreak
 ## Maintainers
 
 The active maintainer of this organisation, and the projects within, goes by Falcon within the PlanetSide 2 community.
-Feel free to get in touch on Discord, @ _LithaFalcon#1153_.
+Feel free to get in touch on Discord,  _@litha.falcon_.
 
 ## Acknowledgements
 
