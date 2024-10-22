@@ -3,8 +3,7 @@
 PS2Sanctuary is a conglomerate of projects dedicated to extracting, presenting and manipulating data from the MMO-FPS
 [PlanetSide 2](https://www.planetside2.com/).
 
-None of the work here is affiliated with nor endorsed by any entities involved with the production of PlanetSide 2,
-such as [_Rogue Planet Games_](https://www.rogueplanetgaming.com/) or [_Daybreak Games Company_](https://www.daybreakgames.com/).
+None of the work here is affiliated with nor endorsed by any entities involved with the production of PlanetSide 2 or the ForgeLight Engine.
 
 ## Maintainers
 
